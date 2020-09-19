@@ -26,7 +26,7 @@ A continuación encontrarán la lista con los talleres que se ofrecerán este a�
 
 ## ¿Qué tenemos que hacer para indicar que queremos participar?
 
-Para inscribir a su grupo/capítulo deben completar [este formulario](https://forms.gle/zzsG9R9XLx6NpBH89).
+Para inscribir a su grupo/capítulo deben completar [este formulario](https://forms.gle/zzsG9R9XLx6NpBH89). En el formulario les pediremos que indiquen tres talleres que les gustaría recibir.
 
 ## ¿Qué sigue después? 
 
