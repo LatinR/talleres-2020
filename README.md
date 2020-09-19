@@ -9,9 +9,9 @@ Desde LatinR apoyaremos también el proceso de difusión y les entregaremos toda
 
 ## Los talleres de esta edición
 
-A continuación encontrarán la lista con los talleres que se ofrecerán este año. La descripción está en el idioma en que se impartirá el taller. **Todos los horarios están en UTC - 3**. En caso de que el taller tenga cupos limitados, se indica en la última columna.
+A continuación encontrarán la lista con los talleres que se ofrecerán este año. La descripción está en el idioma en que se impartirá el taller. **Todos los horarios están en UTC -3**. En caso de que el taller tenga cupos limitados, se indica en la última columna.
 
-| Fecha | Hora | Título | Personas a cargo | Descripción | Cupos |
+| Fecha | Hora (UTC-3)| Título | Personas a cargo | Descripción | Cupos |
 |---|---|---|---|---|---|
 | Lunes 28/09 | 10:00 a 12:00 | Expresiones regulares para la limpieza y transformación de datos | Riva Quiroga y Stephanie Orellana | Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como "regex"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del "Tidyverse". Los ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}. | --- |
 | Martes 29/09 | 18:00 a 20:00 | Aplicaciones web interactivas con Shiny | Florencia D'Andrea, Juan Cruz Rodríguez y Vilma Romero | ¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete Shiny, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo.En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app.Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma.  | --- |
