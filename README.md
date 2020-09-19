@@ -31,4 +31,8 @@ Para inscribir a su grupo/capítulo deben completar [este formulario](https://fo
 ## ¿Qué sigue después? 
 
 Esperaremos respuestas **hasta el miércoles 23 de septiembre a las 20:00 UTC -3**. El jueves en la mañana le avisaremos a cada grupo/capítulo qué taller recibirá. Haremos todo lo posible por que les toque una de sus tres preferencias. 
-En caso de que algún taller sea de interés para más de un grupo/capítulo, es posible que les pidamos que lo organicen en conjunto. 
+En caso de que algún taller sea de interés para más de un grupo/capítulo, es posible que les pidamos que lo organicen en conjunto. En ese caso, todos los grupos involucrados lo pondrían como evento en Meetup. 
+
+## ¿A través de qué plataforma se realizará el taller?
+
+Zoom. Los capítulos de RLadies pueden utilizar la cuenta que está disponible a través de esa organización. Desde LatinR también podemos proveer de una cuenta con licencia en caso de que no dispongan de una. 
