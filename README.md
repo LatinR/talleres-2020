@@ -16,7 +16,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 **Cómo inscribirse**
 
 Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos y RLadies Ciudad de México. Puedes inscribirte a través de cualquiera de estos enlaces:
-- [RLadies Talca]()
+- [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
 - [RLadies Galápagos]()
 - [RLadies CDMX]()
 
