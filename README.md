@@ -1,6 +1,6 @@
 # LatinR 2020: talleres
 
-Aprovechando la modalidad en línea, este año LatinR ofrecerá nueve talleres abiertos a la comunidad. Estos se realizarán como parte de las actividades de capítulos de RLadies de la región y del grupo de R de Rosario. A continuación la descripción de cada taller y cómo inscribirte. 
+Aprovechando la modalidad en línea, este año LatinR ofrecerá nueve talleres abiertos a la comunidad. Estos se realizarán como parte de las actividades de capítulos de RLadies de la región y del grupo de R de Rosario. A continuación encontrarás la descripción de cada taller y cómo inscribirte. 
 
 ## 28/09 - Expresiones regulares para la limpieza y transformación de datos
 Taller a cargo de Riva Quiroga y Stephanie Orellana
@@ -15,7 +15,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido de manera conjunta por los siguientes capítulos de RLadies. Puedes inscribirte a través de cualquiera de estos enlaces:
+Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos y RLadies Ciudad de México. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca]()
 - [RLadies Galápagos]()
 - [RLadies CDMX]()
@@ -33,7 +33,9 @@ Martes 29/09 | 18:00 a 20:00
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies Concepción. Puedes inscribirte a través de cualquiera de estos enlaces:
+- [RLadies Querétaro]()
+- [RLadies Concepción]()
 
 ## 30/09 - Escrevendo manuscritos acadêmicos usando rmarkdown
 
@@ -49,7 +51,7 @@ Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manusc
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido por RLadies Natal. Puedes inscribirte directamente en [su página de Meetup]()
 
 ## 01/10 - Importando datos desde hojas de cálculo
 Taller a cargo de Luis D. Verde Arregoitia
@@ -64,7 +66,12 @@ Importando datos desde hojas de cálculo  | Luis D. Verde Arregoitia | A menudo 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+
+Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
+- [RLadies Puebla]()
+- [RLadies Xalapa]()
+- [R en Rosario]()
+
 
 ## 02/10 - Introducción al ABC para enseñar on-line
 Taller a cargo de Yanina Bellini Saibene, Mariela Rajngewerc y Celeste Molina Favero
@@ -79,7 +86,7 @@ Vamos a introducir buenas prácticas básicas para manejo del aula presencial on
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido por RLadies General Pico. Puedes inscribirte directamente en [su página de Meetup]()
 
 ## 03/10 - Generando tutoriales interactivos con el paquete learnr
 Taller a cargo de Yanina Bellini Saibene y Paola Corrales
@@ -94,7 +101,7 @@ En este tutorial presentamos al paquete learnr para generar tutoriales interacti
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido por RLadies Santa Rosa. Puedes inscribirte directamente en [su página de Meetup]()
 
 ## 05/10 - Introducción a Machine Learning con Tidymodels
 Taller a cargo de Roxana Noelia Villafañe, Ana Laura Diedrichs y Patricia Loto
@@ -109,7 +116,10 @@ Este taller es introductorio y permitirá dar los primeros pasos en el universo 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por 
+
+Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernavaca y RLadies Mendoza. Puedes inscribirte a través de cualquiera de estos enlaces:
+- [RLadies Cuernavaca]()
+- [RLadies Mendoza]()
 
 ## 06/10 - Shiny: zero to hero
 Taller a cargo de William Amorim, Julio Trecenti y Athos Damiani
@@ -124,7 +134,7 @@ Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido por RLadies Niteoroi. Puedes inscribirte directamente en [su página de Meetup]()
 
 ## 10/10 - Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis 
 Taller a cargo de Beatriz Milz y Haydee Svab
@@ -139,4 +149,4 @@ O xaringan é um pacote que tem como objetivo possibilitar a criação de aprese
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por
+Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup]()
