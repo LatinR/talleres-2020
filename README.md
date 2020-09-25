@@ -88,7 +88,7 @@ Vamos a introducir buenas prácticas básicas para manejo del aula presencial on
 
 Este taller será ofrecido en forma conjunta por:
 
-* [R-Ladies General Pico]()  
+* [R-Ladies General Pico](https://www.meetup.com/es/rladies-general-pico/events/273509840/)  
 * [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/events/273506766/). 
 
 Puedes **inscribirte** a través de [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form) usando la palabra clave **LatinR** en los comentarios del formulario.
