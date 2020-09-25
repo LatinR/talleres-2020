@@ -15,10 +15,12 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos y RLadies Ciudad de México. Puedes inscribirte a través de cualquiera de estos enlaces:
+Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
 - [RLadies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/)
 - [RLadies CDMX](https://www.meetup.com/es/rladies-cdmx)
+- [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/273511476/)
+- [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/273511502/)
 
 ## 29/09 - Aplicaciones web interactivas con Shiny
 Taller a cargo de Florencia D'Andrea, Juan Cruz Rodríguez y Vilma Romero
@@ -51,7 +53,10 @@ Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manusc
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Natal. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-natal/events/273508552/)
+Este taller será ofrecido de manera conjunta por RLadies Natal y RLadies Rio de Janeiro. Puedes inscribirte a través de cualquiera de estos enlaces:
+
+- [RLadies Natal](https://www.meetup.com/es/rladies-natal/events/273508552/)
+- [RLadies Rio de Janeiro](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
 
 ## 01/10 - Importando datos desde hojas de cálculo
 Taller a cargo de Luis D. Verde Arregoitia
