@@ -18,7 +18,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos y RLadies Ciudad de México. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
 - [RLadies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/)
-- [RLadies CDMX]()
+- [RLadies CDMX](https://www.meetup.com/es/rladies-cdmx)
 
 ## 29/09 - Aplicaciones web interactivas con Shiny
 Taller a cargo de Florencia D'Andrea, Juan Cruz Rodríguez y Vilma Romero
@@ -34,7 +34,7 @@ Martes 29/09 | 18:00 a 20:00
 **Cómo inscribirse**
 
 Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies Concepción. Puedes inscribirte a través de cualquiera de estos enlaces:
-- [RLadies Querétaro]()
+- [RLadies Querétaro](https://www.meetup.com/es/rladies-queretaro/events/273508288/)
 - [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/273495052/)
 
 ## 30/09 - Escrevendo manuscritos acadêmicos usando rmarkdown
@@ -51,7 +51,7 @@ Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manusc
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Natal. Puedes inscribirte directamente en [su página de Meetup]()
+Este taller será ofrecido por RLadies Natal. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-natal/events/273508552/)
 
 ## 01/10 - Importando datos desde hojas de cálculo
 Taller a cargo de Luis D. Verde Arregoitia
@@ -68,7 +68,7 @@ Importando datos desde hojas de cálculo  | Luis D. Verde Arregoitia | A menudo 
 
 
 Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
-- [RLadies Puebla]()
+- [RLadies Puebla](https://www.meetup.com/es/rladies-puebla/events/273492185/)
 - [RLadies Xalapa](https://www.meetup.com/es/rladies-xalapa/events/273488216/)
 - [R en Rosario](https://www.meetup.com/es/R-en-Rosario/events/273492270/)
 
@@ -128,8 +128,8 @@ Este taller es introductorio y permitirá dar los primeros pasos en el universo 
 
 
 Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernavaca y RLadies Mendoza. Puedes inscribirte a través de cualquiera de estos enlaces:
-- [RLadies Cuernavaca]()
-- [RLadies Mendoza]()
+- [RLadies Cuernavaca](https://www.meetup.com/es/rladies-cuernavaca)
+- [RLadies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/273489088/)
 
 ## 06/10 - Shiny: zero to hero
 Taller a cargo de William Amorim, Julio Trecenti y Athos Damiani
@@ -144,7 +144,7 @@ Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Niteoroi. Puedes inscribirte directamente en [su página de Meetup]()
+Este taller será ofrecido por RLadies Niterói. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-niteroi)
 
 ## 10/10 - Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis 
 Taller a cargo de Beatriz Milz y Haydee Svab
@@ -159,4 +159,4 @@ O xaringan é um pacote que tem como objetivo possibilitar a criação de aprese
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup]()
+Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-goiania)
