@@ -35,9 +35,10 @@ Martes 29/09 | 18:00 a 20:00
 
 **Cómo inscribirse**
 
-Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies Concepción. Puedes inscribirte a través de cualquiera de estos enlaces:
+Este taller será ofrecido de manera conjunta por RLadies Querétaro,RLadies Concepción y RLadies Buenos Aires. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Querétaro](https://www.meetup.com/es/rladies-queretaro/events/273508288/)
 - [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/273495052/)
+- [RLadies Buenos Aires](https://www.meetup.com/es/rladies-buenos-aires)
 
 ## 30/09 - Escrevendo manuscritos acadêmicos usando rmarkdown
 
