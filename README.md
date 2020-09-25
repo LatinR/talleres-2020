@@ -73,9 +73,10 @@ Importando datos desde hojas de cálculo  | Luis D. Verde Arregoitia | A menudo 
 **Cómo inscribirse**
 
 
-Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
+Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y Colombia y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Puebla](https://www.meetup.com/es/rladies-puebla/events/273492185/)
 - [RLadies Xalapa](https://www.meetup.com/es/rladies-xalapa/events/273488216/)
+- [RLadies Barranquilla](https://www.meetup.com/es-ES/rladies-barranquilla/events/273513946/)
 - [R en Rosario](https://www.meetup.com/es/R-en-Rosario/events/273492270/)
 
 
