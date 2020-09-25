@@ -86,7 +86,13 @@ Vamos a introducir buenas prácticas básicas para manejo del aula presencial on
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies General Pico. Puedes inscribirte directamente en [su página de Meetup]()
+Este taller será ofrecido en forma conjunta por:
+
+* [R-Ladies General Pico]()  
+* [R-Ladies Santa Rosa](). 
+
+Puedes inscribirte a través de [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form) usando la palabra clave **LatinR** en los comentarios del formulario.
+
 
 ## 03/10 - Generando tutoriales interactivos con el paquete learnr
 Taller a cargo de Yanina Bellini Saibene y Paola Corrales
@@ -101,7 +107,11 @@ En este tutorial presentamos al paquete learnr para generar tutoriales interacti
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Santa Rosa. Puedes inscribirte directamente en [su página de Meetup]()
+Este taller será ofrecido en forma conjunta por R-Ladies General Pico y R-Ladies Santa Rosa. Puedes inscribirte a través de cualquiera de estos enlaces:
+
+* [R-Ladies General Pico]()  
+* [R-Ladies Santa Rosa](). 
+
 
 ## 05/10 - Introducción a Machine Learning con Tidymodels
 Taller a cargo de Roxana Noelia Villafañe, Ana Laura Diedrichs y Patricia Loto
