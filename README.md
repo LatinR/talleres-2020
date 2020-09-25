@@ -17,7 +17,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 
 Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos y RLadies Ciudad de México. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
-- [RLadies Galápagos]()
+- [RLadies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/)
 - [RLadies CDMX]()
 
 ## 29/09 - Aplicaciones web interactivas con Shiny
