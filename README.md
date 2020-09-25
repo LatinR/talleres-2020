@@ -18,7 +18,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
 - [RLadies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/)
-- [RLadies CDMX](https://www.meetup.com/es/rladies-cdmx)
+- [RLadies CDMX](https://www.meetup.com/es/rladies-cdmx/events/273511609/)
 - [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/273511476/)
 - [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/273511502/)
 
