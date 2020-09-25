@@ -69,8 +69,8 @@ Importando datos desde hojas de cálculo  | Luis D. Verde Arregoitia | A menudo 
 
 Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Puebla]()
-- [RLadies Xalapa]()
-- [R en Rosario]()
+- [RLadies Xalapa](https://www.meetup.com/es/rladies-xalapa/events/273488216/)
+- [R en Rosario](https://www.meetup.com/es/R-en-Rosario/events/273492270/)
 
 
 ## 02/10 - Introducción al ABC para enseñar on-line
