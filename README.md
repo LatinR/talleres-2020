@@ -165,4 +165,4 @@ O xaringan é um pacote que tem como objetivo possibilitar a criação de aprese
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-goiania)
+Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/rladies-goiania/events/273531145/)
