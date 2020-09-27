@@ -115,8 +115,8 @@ En este tutorial presentamos al paquete learnr para generar tutoriales interacti
 
 Este taller será ofrecido en forma conjunta por R-Ladies General Pico y R-Ladies Santa Rosa. Puedes inscribirte a través de cualquiera de estos enlaces:
 
-* [R-Ladies General Pico]()  
-* [R-Ladies Santa Rosa](). 
+* [R-Ladies General Pico](https://www.meetup.com/es-ES/rladies-general-pico/events/273547213/)  
+* [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/273513242/). 
 
 
 ## 05/10 - Introducción a Machine Learning con Tidymodels
