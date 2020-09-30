@@ -150,7 +150,7 @@ Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma 
 
 **Cómo inscribirse**
 
-Este taller será ofrecido por RLadies Niterói. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/es/rladies-niteroi)
+Este taller será ofrecido por RLadies Niterói. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/rladies-niteroi/events/273601088/)
 
 ## 10/10 - Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis 
 Taller a cargo de Beatriz Milz y Haydee Svab
