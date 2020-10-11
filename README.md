@@ -58,6 +58,10 @@ Este taller será ofrecido de manera conjunta por RLadies Natal y RLadies Rio de
 - [RLadies Natal](https://www.meetup.com/es/rladies-natal/events/273508552/)
 - [RLadies Rio de Janeiro](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
 
+**Links**
+- [Material](https://github.com/liibre/Latin-R)
+- [Video](https://www.youtube.com/c/LatinR/videos)
+
 ## 01/10 - Importando datos desde hojas de cálculo
 Taller a cargo de Luis D. Verde Arregoitia
 
@@ -118,6 +122,9 @@ Este taller será ofrecido en forma conjunta por R-Ladies General Pico y R-Ladie
 * [R-Ladies General Pico](https://www.meetup.com/es-ES/rladies-general-pico/events/273547213/)  
 * [R-Ladies Santa Rosa](https://www.meetup.com/es-ES/rladies-santa-rosa/events/273513242/). 
 
+**Links**
+- [Material](https://github.com/yabellini/curso_learnr)
+- [Video](https://www.youtube.com/c/LatinR/videos)
 
 ## 05/10 - Introducción a Machine Learning con Tidymodels
 Taller a cargo de Roxana Noelia Villafañe, Ana Laura Diedrichs y Patricia Loto
@@ -152,6 +159,10 @@ Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma 
 
 Este taller será ofrecido por RLadies Niterói. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/rladies-niteroi/events/273601088/)
 
+**Links**
+- [Material](https://curso-r.github.io/latinr-shiny/)
+- [Video](https://www.youtube.com/c/LatinR/videos)
+
 ## 10/10 - Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis 
 Taller a cargo de Beatriz Milz y Haydee Svab
 
@@ -166,3 +177,8 @@ O xaringan é um pacote que tem como objetivo possibilitar a criação de aprese
 **Cómo inscribirse**
 
 Este taller será ofrecido por RLadies Goiania. Puedes inscribirte directamente en [su página de Meetup](https://www.meetup.com/rladies-goiania/events/273531145/)
+
+
+**Links**
+- [Material](https://r-ladies-sao-paulo.github.io/xaringan/)
+- [Video](https://www.youtube.com/c/LatinR/videos)
