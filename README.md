@@ -39,7 +39,7 @@ Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies C
 - [RLadies Querétaro](https://www.meetup.com/es/rladies-queretaro/events/273508288/)
 - [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/273495052/)
 
-## 30/09 - Escrevendo manuscritos acadêmicos usando rmarkdown
+## 30/09 - [Escrevendo manuscritos acadêmicos usando rmarkdown](https://www.youtube.com/watch?v=Cxrc87AH2WM)
 
 Taller a cargo de Andrea Sánchez - Tapia y Sara Ribeiro Mortara
 
@@ -126,7 +126,7 @@ Este taller será ofrecido en forma conjunta por R-Ladies General Pico y R-Ladie
 - [Material](https://github.com/yabellini/curso_learnr)
 - [Video](https://www.youtube.com/c/LatinR/videos)
 
-## 05/10 - Introducción a Machine Learning con Tidymodels
+## 05/10 - [Introducción a Machine Learning con Tidymodels](https://www.youtube.com/watch?v=1ATHGwDPXQs)
 Taller a cargo de Roxana Noelia Villafañe, Ana Laura Diedrichs y Patricia Loto
 
 **Fecha**
@@ -144,7 +144,7 @@ Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernav
 - [RLadies Cuernavaca](https://www.meetup.com/es/rladies-cuernavaca)
 - [RLadies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/273489088/)
 
-## 06/10 - Shiny: zero to hero
+## 06/10 - [Shiny: zero to hero](https://www.youtube.com/watch?v=fiaZgGqcubc)
 Taller a cargo de William Amorim, Julio Trecenti y Athos Damiani
 
 **Fecha**
@@ -163,7 +163,7 @@ Este taller será ofrecido por RLadies Niterói. Puedes inscribirte directamente
 - [Material](https://curso-r.github.io/latinr-shiny/)
 - [Video](https://www.youtube.com/c/LatinR/videos)
 
-## 10/10 - Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis 
+## 10/10 - [Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis](https://www.youtube.com/watch?v=WxKYqtF2qDg)
 Taller a cargo de Beatriz Milz y Haydee Svab
 
 **Fecha**
