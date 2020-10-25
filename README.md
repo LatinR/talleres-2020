@@ -143,6 +143,11 @@ Este taller es introductorio y permitirá dar los primeros pasos en el universo 
 Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernavaca y RLadies Mendoza. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Cuernavaca](https://www.meetup.com/es/rladies-cuernavaca)
 - [RLadies Mendoza](https://www.meetup.com/es/rladies-mendoza/events/273489088/)
+- [Rladies Resistencia-Corrientes](https://www.meetup.com/es/rladies-resistencia-corrientes/events/273547256/)
+
+**Links**
+[Material](https://github.com/tidymodels-latam-workshops/latinR2020)
+[Video](https://www.youtube.com/c/LatinR/videos)
 
 ## 06/10 - [Shiny: zero to hero](https://www.youtube.com/watch?v=fiaZgGqcubc)
 Taller a cargo de William Amorim, Julio Trecenti y Athos Damiani
